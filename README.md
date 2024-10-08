@@ -1,4 +1,4 @@
 Cara Menjalankannya
 
-chmod +x install.sh
+chmod +x install.sh lalu 
 ./install.sh
